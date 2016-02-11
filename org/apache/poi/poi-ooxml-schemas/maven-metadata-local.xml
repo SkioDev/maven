@@ -3,10 +3,11 @@
   <groupId>org.apache.poi</groupId>
   <artifactId>poi-ooxml-schemas</artifactId>
   <versioning>
-    <release>skio-3.13</release>
+    <release>skio-3.11</release>
     <versions>
       <version>skio-3.13</version>
+      <version>skio-3.11</version>
     </versions>
-    <lastUpdated>20160210215750</lastUpdated>
+    <lastUpdated>20160211030011</lastUpdated>
   </versioning>
 </metadata>
